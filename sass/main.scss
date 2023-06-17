@@ -1,0 +1,174 @@
+@import 'base/_all.scss';
+@import 'layout/_all.scss';
+@import 'modules/_all.scss';
+@import 'pages/_all.scss';
+@import 'state/_all.scss';
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+}
+
+html {
+    overflow-x: hidden;
+    font-size: 62.5%;
+}
+
+body {
+    font-family: "Crimson Text", serif;
+    background-color: $black-light;
+    color: $light;
+}
+
+::selection {
+    background-color: $black-light;
+    color: $blue-light;
+}
+
+#home,
+#about,
+#skill,
+#contact {
+    margin: 0rem auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-block: 10rem;
+}
+
+#skill,
+#contact {
+    flex-direction: column;
+}
+
+@media (max-width: 1024px) {
+    html {
+        font-size: 55%;
+    }
+}
+
+@media (max-width: 768px) {
+    #about {
+        & .row {
+            flex-direction: column-reverse;
+        }
+    }
+
+    #home,
+    #about,
+    #skill,
+    #contact {
+        height: auto;
+    }
+}
+
+.hr {
+    height: 1px;
+    width: 90%;
+    margin: 0 auto;
+    border: 1px solid $white;
+    box-shadow: 0 0 5px $light;
+}
+
+.slick-next,
+.slick-prev {
+    width: 40px;
+    height: 40px;
+    background-color: $blue-light;
+    z-index: 2;
+    border-radius: 100rem;
+    box-shadow: 0 0 5px $blue-light;
+}
+
+.slick-next::before,
+.slick-prev::before {
+    content: '';
+    width: 15px;
+    height: 15px;
+    border: 2px solid $dark;
+    position: absolute;
+    inset: 13px;
+    transform: rotate(-45deg);
+    border-top: none;
+    border-left: none;
+}
+
+.slick-prev::before {
+    transform: rotate(135deg);
+}
+
+.slick-next:hover,
+.slick-prev:hover,
+.slick-next:focus,
+.slick-prev:focus {
+    background-color: $blue-light;
+}
+
+.slick-prev {
+    left: 0;
+}
+
+.slick-next {
+    right: 0;
+}
+
+.slick-dots {
+    bottom: -30px;
+}
+
+.slick-dots>li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100rem;
+    background-color: $blue-light;
+    transition: .3s;
+    box-shadow: 0px 0px 2px $blue-light;
+}
+
+.slick-dots>li>button {
+    display: none;
+}
+
+.slick-dots>li.slick-active {
+    width: 30px;
+    background-color: $blue-light;
+}
+
+.slick-list {
+    padding: 3rem 0 0 0;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px $dark;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: $blue-light;
+    border-radius: 10px;
+}
+
+@media (max-width: 400px) {
+    html {
+        font-size: 50%;
+    }
+    .about__img,
+    .max-w400 {
+        transform: scale(.8);
+    }
+}
+.typed-cursor {
+    color: $blue-light;
+}

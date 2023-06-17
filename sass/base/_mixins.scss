@@ -1,0 +1,6 @@
+@mixin heading {
+    font-size: 5rem;
+    font-weight: 600;
+    text-shadow: 8px 5px 3px $dark;
+    margin-bottom: 0;
+}
