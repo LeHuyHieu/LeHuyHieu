@@ -25,6 +25,7 @@ body {
     font-family: "Crimson Text", serif;
     background-color: $black-light;
     color: $light;
+    overflow: hidden;
 }
 
 ::selection {

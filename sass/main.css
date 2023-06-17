@@ -165,6 +165,7 @@
     opacity: 0.5;
     z-index: 2;
     top: 0;
+    left: 0;
     right: 0;
   }
 }
@@ -196,7 +197,7 @@
 }
 
 .footer {
-  height: 50vh;
+  padding-block: 5rem;
 }
 .footer__logo {
   font-size: 3rem;
@@ -699,6 +700,7 @@ body {
   font-family: "Crimson Text", serif;
   background-color: #424242;
   color: #e0e0e0;
+  overflow: hidden;
 }
 
 ::-moz-selection {
