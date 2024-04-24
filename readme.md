@@ -77,14 +77,12 @@ achieve common goals.
 <h2 align="left">Social network</h2>
 
 <div align="left">
-   <b>Linkedin </b>
   <a href="https://www.linkedin.com/in/le-huy-hieu/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
 <div align="left">
-  <b>Portfolio </b>
   <a href="https://jacklee.vercel.app/" target="_blank">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/location-travel-map/earth-icon.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
