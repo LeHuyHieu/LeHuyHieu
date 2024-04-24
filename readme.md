@@ -1,5 +1,11 @@
-<h2 align="left">Hi 👋! My name is Jack Lee and I'm a Fullstack Developer, from VietNam</h2>
+<h1 align="left">Hey 👋 What's up?</h1>
 
+<p align="left">My name is Le Huy Hieu (Jack Lee) and I'm a Fullstack Developer, from VietNam</p>
+
+###
+
+<h2 align="left">About me</h2>
+<p></p>
 ###
 
 <div align="center">
@@ -8,9 +14,15 @@
 
 ###
 
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
 ###
 
-<div align="center">
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -38,7 +50,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
