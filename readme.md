@@ -1,11 +1,3 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-<p align="left">My name is Le Huy Hieu (Jack Lee) and I'm a Fullstack Developer, from VietNam</p>
-
-###
-
-<h2 align="left">About me</h2>
-<p></p>
 ###
 
 <div align="center">
@@ -13,6 +5,22 @@
 </div>
 
 ###
+
+<h1 align="left">Hey 👋 What's up?</h1>
+
+<p align="left">My name is Le Huy Hieu (Jack Lee) and I'm a Fullstack Developer, from VietNam</p>
+
+###
+
+<h2 align="left">About me</h2>
+<p>
+  I am a web developer with over 100 projects participated in and almost one year of experience working
+with programming languages such as PHP, MySQL, HTML, CSS, and JavaScript. With my understanding of
+these technologies, I am confident in my ability to build and maintain web applications optimally. My goal
+is to continually improve my skills and knowledge in the field of web development, while actively
+contributing to the success of projects and organizations I am involved in. I also possess good teamwork
+skills and enjoy tackling technical challenges alongside teammates to achieve common goals.
+</p>
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
@@ -68,7 +76,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/jack-lee-901499303/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
