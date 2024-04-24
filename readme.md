@@ -23,8 +23,6 @@ I also possess good teamwork skills and enjoy tackling technical challenges alon
 achieve common goals.
 </p>
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
 ###
 
 <h2 align="left">I code with</h2>
@@ -76,11 +74,24 @@ achieve common goals.
 </div>
 
 ###
+<h2 align="left">Social network</h2>
 
+<p>Linkedin</p>
 <div align="left">
   <a href="https://www.linkedin.com/in/jack-lee-901499303/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
+<p>Portfolio</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/jack-lee-901499303/" target="_blank">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/location-travel-map/earth-icon.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
