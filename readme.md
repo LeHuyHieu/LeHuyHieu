@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello 👋 </h1>
 
 <p align="left">My name is <b>Le Huy Hieu (Jack Lee)</b> and I'm a <b>Fullstack Developer</b>, from <b>VietNam</b></p>
 
