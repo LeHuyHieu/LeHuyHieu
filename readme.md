@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/C5112AQFm6aUIMtkQXw/article-inline_image-shrink_1000_1488/0/1586786516190?e=1718236800&v=beta&t=xbODmEf8_YZNTQkvRXbBocbZ5e1wf0YN0mKQJyB6gsw" />
+  ![image](https://github.com/LeHuyHieu/LeHuyHieu/assets/126578220/4f3d3063-3c96-4ff3-bf15-d476b03a8734)
 </div>
 
 ###
