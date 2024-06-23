@@ -1,11 +1,5 @@
 ###
 
-<div align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/126578220/339382598-4f3d3063-3c96-4ff3-bf15-d476b03a8734.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240613T133611Z&X-Amz-Expires=300&X-Amz-Signature=43bbf621c75f199e8047b43483906a60f55fed8c4c3e38583befdf17f0e88158&X-Amz-SignedHeaders=host&actor_id=126578220&key_id=0&repo_id=655020819" />
-</div>
-
-###
-
 <h1 align="left">Hello 👋 </h1>
 
 <p align="left">My name is <b>Le Huy Hieu (Jack Lee)</b> and I'm a <b>Fullstack Developer</b>, from <b>VietNam</b></p>
