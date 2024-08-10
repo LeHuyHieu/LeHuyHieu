@@ -8,13 +8,13 @@
 
 <h2 align="left">About me</h2>
 <p>
-  I am a web developer with over 100 projects participated in and almost one year of experience working
-with programming languages such as <b>PHP</b>, <b>MySQL</b>, <b>HTML</b>, <b>CSS</b>, and <b>JavaScript.</b> 
-With my understanding of these technologies, I am confident in my ability to build and maintain web 
-applications optimally. My goal is to continually improve my skills and knowledge in the field of web 
-development, while actively contributing to the success of projects and organizations I am involved in. 
-I also possess good teamwork skills and enjoy tackling technical challenges alongside teammates to 
-achieve common goals.
+    I am a web developer with hands-on experience in various projects and have accumulated one
+  year of experience working with programming languages such as PHP, MySQL, HTML, CSS, and
+  JavaScript. Leveraging my knowledge of these technologies, I am confident in my ability to build
+  and maintain web applications optimally. My goal is to continuously enhance my skills and
+  knowledge in web development while actively contributing to the success of the projects and
+  organizations I am involved with. Additionally, I possess strong teamwork skills and enjoy
+  tackling technical challenges alongside my teammates to achieve common goals.
 </p>
 
 ###
